@@ -1,4 +1,4 @@
-# 🧑‍💻 AWS Learning Journey — Lesson 3: 💻 Basic Linux Commands for EC2
+# 🧑‍💻 AWS Learning Journey — Lesson 3: 💻 Basic Linux Commands
 
 Welcome to **Lesson 3** of my AWS Learning Journey!  
 In this session, I’m learning essential **Linux commands** to manage my EC2 instance efficiently.  
